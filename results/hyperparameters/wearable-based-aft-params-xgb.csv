@@ -1,0 +1,2 @@
+target,predictor_group,model,best_auc,learning_rate,iterations,depth,subsample
+aft,wearable-based,xgb,0.6900915378014328,0.019959276998616077,226,2,0.8106754768074377

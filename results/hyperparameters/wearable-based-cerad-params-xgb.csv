@@ -1,0 +1,2 @@
+target,predictor_group,model,best_auc,learning_rate,iterations,depth,subsample
+cerad,wearable-based,xgb,0.7268994633577793,0.0192889596601317,367,2,0.9182864048352495

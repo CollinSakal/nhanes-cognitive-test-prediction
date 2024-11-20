@@ -1,0 +1,2 @@
+target,predictor_group,model,best_auc,iterations,depth
+aft,comparison,rft-comparison,0.6815978105111168,97,2
